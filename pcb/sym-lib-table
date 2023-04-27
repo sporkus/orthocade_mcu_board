@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "mcu")(type "KiCad")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "mcu")(type "KiCad")(uri "${KIPRJMOD}/kleeb-mcu.kicad_sym")(options "")(descr ""))
 )

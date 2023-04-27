@@ -1,0 +1,11 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C700,0805,1,0.1uF,
+J1,PinHeader_2x02_P2.00mm_Horizontal,1,Conn_01x04,
+J700,FCC 20pin,1,Conn_01x20,
+J701,PinHeader_1x04_P2.54mm_Vertical,1,BL_CONN,
+J702,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02,
+"R701, R702",0805,2,10k,
+SW700,switch_MSK-12C02_smd,1,ON_OFF,
+U700,xiao-ble-smd-cutout,1,xiao-ble,
+U701,TSSOP-24_4.4x7.8mm_P0.65mm,1,PCA9555PW,
+bat- +,PinHeader_1x02_P2.00mm_Vertical,1,Battery_Cell,
